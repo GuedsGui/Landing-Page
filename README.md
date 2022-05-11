@@ -1,2 +1,2 @@
-# Landing-Page
-estudo css e html
+# Landing Page
+Estudo CSS e HTML
